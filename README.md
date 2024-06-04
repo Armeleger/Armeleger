@@ -2,7 +2,7 @@
 - 👀 I’m interested in robots and futuristic technology 
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on automated systems 
-- 📫 Reach me on email: <a href="mailto:kirarmel@gmail.com">kirarmel@gmail.com</a> 
+- 📫 Reach me on email: <a href="mailto:kirarmel@gmail.com" target="_blank">kirarmel@gmail.com</a> 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Kanye West
 
