@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Armeleger 
-- 👀 I’m interested in Robots and futuristic technology 
-  - 🌱 I’m currently learning Software Engineering 
-- 💞️ I’m looking to collaborate on Automated systems 
-- 📫 How to reach me on mail kirarmel@gmail.com 
+- 👋 Hi, I’m Armel Kira Kayisire 
+- 👀 I’m interested in robots and futuristic technology 
+  - 🌱 I’m currently learning software engineering 
+- 💞️ I’m looking to collaborate on automated systems 
+- 📫 Reach me on email: <a href="mailto:kirarmel@gmail.com">kirarmel@gmail.com</a> 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Kanye West
 
